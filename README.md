@@ -14,9 +14,25 @@ hello coders this is check
 
 
 
-hello every one 
+hello every one
 
-never ever ever ever ever store the password 
+never ever ever ever ever store the password
 
-this is not correct platfrom 
+this is not correct platfrom
+
+
+
+
+
+never store the credit password and details 
+
+never store API details 
+
+never store sensitive data 
+
+
+
+
+
+
 
